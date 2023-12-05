@@ -1,7 +1,7 @@
 ---
 title: GPIO / 40Pin Header에 대해
 date: YYYY-MM-DD HH:MM:SS +09:00
-categories: [Raspberry Pi, Blog]
+categories: [Basic,Raspberry Pi]
 tags:
   [
     라즈베리파이,
