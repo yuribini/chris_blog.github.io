@@ -1,5 +1,20 @@
+---
+title: GPIO / 40Pin Header에 대해
+date: YYYY-MM-DD HH:MM:SS +09:00
+categories: [Raspberry Pi, Blog]
+tags:
+  [
+    라즈베리파이,
+    아두이노,
+    GPIO,
+    40Pin,
+    Raspberry Pi,
+    권태의TechLAB
+  ]
+---
+
 # GPIO / 40Pin Header에 대해
-![Diagram](./image/GPIO-Diagram.png)
+![Diagram](./23-12-05-GPIO_40Pin_Basic_image/GPIO-Diagram.png)
 위에 보이는 GPIO 다이어그램은 각 핀이 수행할 수 있는 다양한 역할과 핀의 번호를 보여줌.
 
 ###<mark> **라즈베리 파이를 사용하기 전에 핀의 위치를 정확히 숙지해야 함.**</mark>
