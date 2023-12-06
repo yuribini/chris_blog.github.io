@@ -1,6 +1,6 @@
 ---
 title: GPIO / 40Pin Header에 대해
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2023-12-06 21:38:00 +09:00
 categories: [Raspberry Pi, Basic]
 tags:
   [
