@@ -1,6 +1,6 @@
 ---
 title: 온습도 FullStack Project-각 Stack에 대해
-date: 2023-12-10 10:00:00 +09:00
+date: 2023-12-10 10:58:00 +09:00
 categories: [Raspberry Pi, Project]
 tags:
   [
