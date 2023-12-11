@@ -63,6 +63,7 @@ def wrapper():
 - 아래에 웹 페이지 요청이 들어올 때마다 간단한 메세지를 출력하는 웹 서버 예제를 살펴보자.
 - 사용자가 웹으로 '(주소)/'에 접근하면, 'home' 함수가 호출되고 "Welcome to the Home Page!"라는 메세지를 보여준다.
 - 'log_request' 데코레이터가 'home' 함수에 적용되어 'home'함수가 호출될 때 "Request received for:home"라는 로그 메세지가 콘솔에 출력된다.
+
 ```python
 from flask import Flask
 
@@ -83,14 +84,14 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 
-  #### step1. Flask 초기화
+### step1. Flask 초기화
   ```python
   app = Flask(__name__)
   ```
   - Flask 앱 생성
   - '__ _name___'은 현재 파일을 나타낸다.
 
-  #### step2. 데코레이터 정의
+### step2. 데코레이터 정의
   ```python
   def log_request(func):
     def wrapper(*args, **kwargs):
@@ -102,17 +103,17 @@ if __name__ == '__main__':
   - 'wrapper'함수는 실제로 데코레이터가 적용될 함수('home')을 실행한다.
   - '*args'와 '**kwargs'는 모든 종류의 인자를 받을 수 있도록 한다.
 
-  #### step3. 라우트 설정, 데코레이터 적용
-  ```python
+### step3. 라우트 설정, 데코레이터 적용
+```python
 @app.route('/')
 @log_request
 def home():
     return "Welcome to the Home Page!"
-  ```
+```
   - '@app.route('/')'는 Flask의 라우팅 데코레이터로, root URL('/')에 대한 요청을 'home()'함수로 연결한다.
   - '@log_request'는 'log_request' 데코레이터를 'home' 함수에 적용한다.
 
-  #### step4. 앱실행
+### step4. 앱실행
   ```python
   if __name__ == '__main__':
     app.run(debug=True)
