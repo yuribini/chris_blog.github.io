@@ -1,7 +1,7 @@
 ---
 title: Python 고급-데코레이터(Decorator)
 date: 2023-12-11 23:58:00 +09:00
-categories: [Advanced, Python]
+categories: [Python, Advanced]
 tags:
   [
     Flask,

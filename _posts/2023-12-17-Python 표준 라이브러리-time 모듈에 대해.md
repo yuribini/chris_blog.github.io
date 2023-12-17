@@ -1,7 +1,7 @@
 ---
 title: Python 표준 라이브러리 - time 모듈
 date: 2023-12-17 22:01:00 +09:00
-categories: [Python, 라이브러리]
+categories: [Python, 표준라이브러리]
 tags:
   [
     PYTHON,

@@ -1,7 +1,7 @@
 ---
 title: macOS(Linux) SD Card Backup 방법
 date: 2023-12-12 23:57:00 +09:00
-categories: [Basic, Linux]
+categories: [Linux, Basic]
 tags:
   [
     macOS,
