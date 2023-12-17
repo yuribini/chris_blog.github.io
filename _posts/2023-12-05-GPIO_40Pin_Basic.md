@@ -1,7 +1,7 @@
 ---
 title: GPIO / 40Pin Header에 대해
 date: 2023-12-06 21:38:00 +09:00
-categories: [Raspberry Pi, Basic]
+categories: [Raspberry Pi, RPi_Basic]
 tags:
   [
     라즈베리파이,
