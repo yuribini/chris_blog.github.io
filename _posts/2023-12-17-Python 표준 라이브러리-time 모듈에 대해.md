@@ -13,8 +13,7 @@ tags:
     time.time(),
     time.strftime,
     time.strptime,
-    time.localtime,
-    time.gmtime
+    time.sleep()
   ]
 ---
 
@@ -24,7 +23,7 @@ tags:
 ## 1. 'time.sleep()'
 - 'time' 모듈에서 가장 많이 사용되는 매우 중요한 함수.
 - 프로그램을 지정된 시간 동안 일시정지 시키는 데 사용된다.
-- 프로세스 지연, 네트워크 요청 지연 등의 과부하를 방지하기 위한 일시적은 지연을 생성하는데 많이 사용된다.
+- 프로세스 지연, 네트워크 요청 지연 등의 과부하를 방지하기 위한 일시적인 지연을 생성하는데 많이 사용된다.
 
 [기본구조]
 ```python
@@ -67,9 +66,9 @@ print(f"코드 실행에 걸린 시간: {run_time}초")
 
 
 ## 3. 'time.strftime()'
-- time tuple을 문자열로 변환할 때, time 구조체를 특정 형식의 문자열로 변환할 때 사용한다.
-- 쉽게말해 time.localtime() 등의 함수로부터 반환값으로 얻은 time 구조체를 다른 형식의 문자열로 변환하고 싶을 때 사용한다.
-- 사용법 : 'time.strftime(원하는 포멧, 변환할 time 구조체)
+- time tuple, time 구조체를 특정 형식의 문자열로 변환할 때 사용한다.
+- 쉽게말해 time.localtime() 등의 함수로부터 반환값으로 얻은 time tuple을 다른 형식의 문자열로 변환하고 싶을 때 사용한다.
+- 사용법 : 'time.strftime(원하는 포멧, 변환할 time tuple)
 - 'strftime' 에서 'f'는 "format"의 약자이다. 즉, "string format time"의 줄임말이다.
 
 [간단 예제]
@@ -94,5 +93,5 @@ import time
 
 time_string = "2023-12-17 15:30:00"
 time_struct = time.strptime(time_string, "%Y-%m-%d %H:%M:%S")
-print("해석된 time tuple:", time_struct)
+print("해석된 time struct:", time_struct)
 ```
