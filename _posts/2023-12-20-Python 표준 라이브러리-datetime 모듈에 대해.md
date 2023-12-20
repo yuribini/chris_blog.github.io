@@ -16,11 +16,12 @@ tags:
 ---
 
 ![Python표준라이브러리](/images/python표준라이브러리.webp)
+
 >이미지 출처:(https://ajaytech.co/what-are-python-libraries/)
 
 
 # datetime 모듈
-> 데이터를 조작할 때, 분석할 때, 웹 애플리케이션등 정말 많은 분야에 정말 많이 사용되는 모듈입니다...⭐️x100
+> 데이터를 조작할 때, 분석할 때, 웹 애플리케이션등 정말 많은 분야에 정말 많이 사용되는 모듈이다...⭐️x100
 - datetime 모듈은 날짜와 시간을 다루기 위한 클래스와 함수를 제공한다.
 - time 모듈은 시간만을 단독으로 사용하는 반면 datetime 모듈은 날짜와 시간을 함께 다룰 때 주로 사용한다.
 
@@ -137,7 +138,7 @@ dt_from_str = datetime.strptime("2023-01-01 12:30", "%Y-%m-%d %H:%M")
 ```
 
 
-## 4.'datetime.timedelta' Class
+## 4. 'datetime.timedelta' Class
 - timedelta 클래스는 두개 날짜, 두개 시간 사이의 차이(기간)를 표현하는 데 사용된다.
 - ***정말 헷갈리고 암산하기 힘든 날짜계산, 시간계산에 사용하는 데 개꿀이다.***
 - 글로 표현하는 것 보다 코드로 이해하는게 빠르다. 아래에 예시를 참고하자.
