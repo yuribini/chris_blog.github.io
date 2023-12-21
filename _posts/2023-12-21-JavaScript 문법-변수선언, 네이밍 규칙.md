@@ -13,7 +13,7 @@ tags:
   ]
 ---
 
-![JavaScript](/images/JavaScript.png)
+![JS](/images/JavaScript.png)
 
 # JavaScript 기초 문법 - 변수 선언과 네이밍 규칙
 >JavaScript의 아주 기본적이면서 필수적인 변수 선언과 네이밍 규칙에 대해 알아보았다.
