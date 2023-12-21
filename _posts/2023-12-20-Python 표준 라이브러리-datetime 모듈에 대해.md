@@ -17,7 +17,7 @@ tags:
 
 ![PythonStandardLibrary](/images/Python_Standard_library.png)
 
->이미지 출처:(https://ajaytech.co/what-are-python-libraries/)
+이미지 출처:(https://ajaytech.co/what-are-python-libraries/)
 
 
 # datetime 모듈
