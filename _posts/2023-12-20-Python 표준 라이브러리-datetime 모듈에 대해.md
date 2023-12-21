@@ -15,7 +15,8 @@ tags:
   ]
 ---
 
-![PythonStandardLibrary](/images/Python_Standard_library.png)
+![PythonStandardlibrary](/images/Python_Standard_library.png)
+
 이미지출처👉[ajaytech](https://ajaytech.co/what-are-python-libraries/)
 
 
@@ -176,3 +177,5 @@ seconds = one_hour_thirty_minutes.seconds  # 5400
 
 ## 한줄평
 - 오늘 공부한 내용은 정말 자주 사용하고 있으면서도 검색하고 찾느라 번거로운 내용이였는데.. 정리를 싹 해 놓으니 속이 다 후련하네.🌚
+
+[def]: /images/Python_Standard_library.png
