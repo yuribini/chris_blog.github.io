@@ -1,5 +1,5 @@
 ---
-title: JavaScript 문법-변수선언, 네이밍 규칙
+title: JavaScript 문법-변수선언과 네이밍 규칙
 date: 2023-12-21 23:12:00 +09:00
 categories: [JavaScript, JS_Basic]
 tags:
