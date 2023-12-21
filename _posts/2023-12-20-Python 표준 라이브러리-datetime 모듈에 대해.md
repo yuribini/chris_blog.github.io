@@ -15,7 +15,7 @@ tags:
   ]
 ---
 
-![PythonStandardLibrary](/images/Python_Standard_Library.png)
+![PythonStandardLibrary](/images/Python_Standard_library.png)
 
 >이미지 출처:(https://ajaytech.co/what-are-python-libraries/)
 
