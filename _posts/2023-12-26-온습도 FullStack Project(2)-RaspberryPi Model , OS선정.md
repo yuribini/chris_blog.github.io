@@ -1,5 +1,5 @@
 ---
-title: RaspberryPi Model 선정
+title: 2023-12-26-온습도 FullStack Project(2)-RaspberryPi Model , OS선정
 date: 2023-12-26 07:02:00 +09:00
 categories: [Raspberry Pi, Project]
 tags:
