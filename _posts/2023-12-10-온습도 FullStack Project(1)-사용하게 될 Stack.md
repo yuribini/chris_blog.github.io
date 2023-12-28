@@ -23,7 +23,7 @@ tags:
   - 온습도 측정 센서. 라즈베리파이와 연결하여 온습도 데이터를 계측한다.
 
 ## 2. OS
-- Raspbian Stretch Lite
+- Raspbian OS Lite (레거시)
   - 하드웨어 관리, 사용자와 소프트웨어 간의 인터페이스 역할을 수행한다.
 
 ## 3. Web Framework
