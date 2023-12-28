@@ -1,6 +1,6 @@
 ---
-title: 2023-12-26-온습도 FullStack Project(2)-RaspberryPi Model , OS선정
-date: 2023-12-26 07:02:00 +09:00
+title: 2023-12-29-온습도 FullStack Project(2)-RaspberryPi Model , OS선정
+date: 2023-12-29 00:02:00 +09:00
 categories: [Raspberry Pi, Project]
 tags:
   [라즈베리파이, 프로젝트, 온습도, DHT22, AM2302, Raspberry Pi, 권태의TechLAB]
