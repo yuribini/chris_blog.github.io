@@ -3,7 +3,7 @@ title: 온습도 FullStack Project(2)-RaspberryPi Model , OS선정
 date: 2023-12-29 00:02:00 +09:00
 categories: [Raspberry Pi, Project]
 tags:
-  [라즈베리파이, 프로젝트, 온습도, DHT22, AM2302, Raspberry Pi]
+  [라즈베리파이, 프로젝트, 온습도, DHT22, AM2302, Raspberry Pi, 라즈베리파이 종류]
 ---
 
 # Raspberry Pi Model 선정
@@ -40,6 +40,6 @@ tags:
 
 👉 [설치링크](https://www.raspberrypi.com/software/operating-systems/)
 
-- RaspberryPi Lite OS (레거시)를 설치하였다.
-- RaspberryPi Lite OS는 GUI가 없는 Headless OS 인데, 불필요한 OS 용량을 줄일 수 있으며 서버로 사용하기에 적합하다. (16GB SD Card를 사용할 예정이다. Headless는 보안, 속도, 안정성 등 그래픽을 포기하면 장점이 꽤 많다.)
-
+- RaspberryPi Lite OS (32bit)를 설치하였다.
+- RaspberryPi Lite OS는 GUI가 없는 Headless OS 인데, 불필요한 OS 용량을 줄일 수 있으며 서버로 사용하기에 적합하다. (Headless는 보안, 속도, 안정성 등 그래픽을 포기하면 장점이 꽤 많다.)
+- 만약 본인의 RaspberryPi가 구형 RaspberryPi인 경우 오랜시간 검증되고 가벼운 Debian 11(billseye) 버전의 `Raspberry Pi OS (Legacy)`를 추천한다.
