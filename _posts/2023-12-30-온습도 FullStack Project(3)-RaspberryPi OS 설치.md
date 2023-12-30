@@ -2,13 +2,21 @@
 title: 온습도 FullStack Project(3)-RaspberryPi OS 설치
 date: 2023-12-30 22:06:00 +09:00
 categories: [Raspberry Pi, Project]
-tags:
-  [라즈베리파이, 프로젝트, 온습도, SSH, 커스텀세팅, Raspberry Pi, 라즈베리파이, OS 설치]
+tags:  [
+  라즈베리파이, 
+  프로젝트, 
+  온습도, 
+  SSH, 
+  커스텀세팅, 
+  Raspberry Pi, 
+  라즈베리파이, 
+  OS 설치
+  ]
 ---
 
 ## 👉🏻[(1)사용할 Stack 정리](https://yuribini.github.io/posts/%EC%98%A8%EC%8A%B5%EB%8F%84-FullStack-Project-%EA%B0%81-Stack%EC%97%90-%EB%8C%80%ED%95%B4/)
 
-## 👉🏻[(2)RaspberryPi Model , OS선정](https://yuribini.github.io/posts/%EC%98%A8%EC%8A%B5%EB%8F%84-FullStack-Project(2)-RaspberryPi-Model-,-OS%EC%84%A0%EC%A0%95/)
+### 👉🏻[(2)RaspberryPi Model_OS선정](https://yuribini.github.io/posts/%EC%98%A8%EC%8A%B5%EB%8F%84-FullStack-Project(2)-RaspberryPi-Model-,-OS%EC%84%A0%EC%A0%95/)
 
 <br>
 <br>
