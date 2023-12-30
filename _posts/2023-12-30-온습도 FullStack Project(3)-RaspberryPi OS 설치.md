@@ -51,6 +51,7 @@ tags:  [
 <br>
 
 ![Custom Setting](/images/Custom_Setting.png)
+- RaspberryPi 4 이전의 모델은 Wifi_5Ghz를 지원하지 않을 수 있으니 꼭 `2.4G`로 사용 및 입력하도록 하자.
 
 <br>
 
