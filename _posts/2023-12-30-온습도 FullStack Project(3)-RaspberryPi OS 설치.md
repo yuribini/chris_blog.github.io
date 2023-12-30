@@ -1,6 +1,6 @@
 ---
 title: 온습도 FullStack Project(3)-RaspberryPi OS 설치
-date: 2023-12-29 00:02:00 +09:00
+date: 2023-12-30 22:06:00 +09:00
 categories: [Raspberry Pi, Project]
 tags:
   [라즈베리파이, 프로젝트, 온습도, SSH, 커스텀세팅, Raspberry Pi, 라즈베리파이, OS 설치]
