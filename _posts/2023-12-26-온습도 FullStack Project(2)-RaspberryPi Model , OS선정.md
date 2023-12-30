@@ -42,3 +42,4 @@ tags:
 
 - RaspberryPi Lite OS (레거시)를 설치하였다.
 - RaspberryPi Lite OS는 GUI가 없는 Headless OS 인데, 불필요한 OS 용량을 줄일 수 있으며 서버로 사용하기에 적합하다. (16GB SD Card를 사용할 예정이다. Headless는 보안, 속도, 안정성 등 그래픽을 포기하면 장점이 꽤 많다.)
+
