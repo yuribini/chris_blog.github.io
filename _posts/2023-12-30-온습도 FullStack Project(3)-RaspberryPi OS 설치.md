@@ -14,7 +14,7 @@ tags:  [
   ]
 ---
 
-## 👉🏻[(1)사용할 Stack 정리](https://yuribini.github.io/posts/%EC%98%A8%EC%8A%B5%EB%8F%84-FullStack-Project-%EA%B0%81-Stack%EC%97%90-%EB%8C%80%ED%95%B4/)
+## 👉🏻[(1)사용할 Stack 정리](https://yuribini.github.io/posts/%EC%98%A8%EC%8A%B5%EB%8F%84-FullStack-Project(1)-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%A0-Stack/)
 
 ### 👉🏻[(2)RaspberryPi Model_OS선정](https://yuribini.github.io/posts/%EC%98%A8%EC%8A%B5%EB%8F%84-FullStack-Project(2)-RaspberryPi-Model-,-OS%EC%84%A0%EC%A0%95/)
 
