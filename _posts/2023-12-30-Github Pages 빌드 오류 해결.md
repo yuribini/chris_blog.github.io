@@ -1,15 +1,16 @@
 ---
-title: 2023-12-30-Github Pages 빌드 오류 해결
+title: Github Pages 빌드 오류 해결
 date: 2023-12-30 09:42:00 +09:00
 categories: [Git/GitHub, Troubleshooting]
-tags:
-  [Git, Github, BuildError, Error: The process '/opt/hostedtoolcache/Ruby/3.3.0/x64/bin/bundle' failed with exit code 5 ]
+tags: [Git, Github, BuildError, Ruby]
 ---
 
-# Github Pages 빌드 오류 내용
+## Github Pages 빌드 오류 내용
 
-    - github Pages를 잘 사용하고 있었는데. 어느날 블로그 포스팅 글이 push 이후 build가 되지 않는 현상이 발생했다.
-    에러 메세지는 아래 내용이며 해결 방법은 간단하다.
+- github Pages를 잘 사용하고 있었는데. 어느 날 블로그 포스팅 글이 push 이후 build가 되지 않는 현상이 발생했다.
+  에러 메세지는 아래 내용이며 해결 방법은 간단하다.
+
+<br>
 
 ```bash
 Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
@@ -88,8 +89,9 @@ Error: The process '/opt/hostedtoolcache/Ruby/3.3.0/x64/bin/bundle' failed with 
 <br>
 <br>
 
-# 해결 방법
-- GitHub Actions 설정에서 사용된 Ruby 버전(ruby-version: 3)과 로컬 환경의 Ruby 버전 불일치가 원인이였다.
+## 해결 방법
+
+- GitHub Actions 설정에서 사용된 Ruby 버전(ruby-version: 3)과 로컬 환경의 Ruby 버전 불일치가 원인이었다.
 - .github/workflows 내부 .yml 파일의 ruby-version을 3.2로 변경하여 로컬 환경과 일치시키니 해결되었다.
 
 <br>

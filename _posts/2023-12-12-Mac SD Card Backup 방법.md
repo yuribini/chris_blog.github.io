@@ -8,8 +8,7 @@ tags:
     Linux,
     SD Card Backup,
     SD 카드 백업,
-    라즈베리파이 백업,
-    권태의TechLAB
+    라즈베리파이 백업
   ]
 ---
 

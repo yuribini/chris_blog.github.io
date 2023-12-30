@@ -8,8 +8,7 @@ tags:
     아두이노,
     GPIO,
     40Pin,
-    Raspberry Pi,
-    권태의TechLAB
+    Raspberry Pi
   ]
 ---
 

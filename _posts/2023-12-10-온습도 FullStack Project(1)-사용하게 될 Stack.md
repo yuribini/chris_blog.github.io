@@ -9,8 +9,7 @@ tags:
     온습도,
     DHT22,
     AM2302,
-    Raspberry Pi,
-    권태의TechLAB
+    Raspberry Pi
   ]
 ---
 

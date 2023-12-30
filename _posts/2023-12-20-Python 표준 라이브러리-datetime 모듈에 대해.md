@@ -7,7 +7,6 @@ tags:
     PYTHON,
     표준라이브러리,
     datetime,
-    권태의TechLAB,
     datetime.date,
     datetime.time,
     datetime.datetime,

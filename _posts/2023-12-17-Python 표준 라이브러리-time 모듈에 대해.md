@@ -9,7 +9,6 @@ tags:
     time,
     time모듈,
     파이썬time,
-    권태의TechLAB,
     time.time(),
     time.strftime,
     time.strptime,

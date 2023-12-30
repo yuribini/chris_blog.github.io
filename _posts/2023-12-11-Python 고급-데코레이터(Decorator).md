@@ -10,7 +10,6 @@ tags:
     라즈베리파이,
     웹서버,
     Decorator,
-    권태의TechLAB
   ]
 ---
 
