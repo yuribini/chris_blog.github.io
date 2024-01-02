@@ -19,7 +19,7 @@ title: 권태 # the main title
 tagline: "Navigating the Sea of Information" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  어느 직장인의 C, 파이썬, 인공지능, 라즈베리파이, 아두이노, 웹개발, 3D Printing 등의 취미 공유 공간 / A working professional's space for sharing hobbies in C, Python, Artificial Intelligence, Raspberry Pi, Arduino, Web Development, and 3D Printing. Join the journey of balancing work and tech hobbies, offering easy-to-understand explanations and practical tips.
+  어느 직장인의 IT 취미 공유 공간 / A working professional's space for sharing hobbies in C, Python, Artificial Intelligence, Raspberry Pi, Arduino, Web Development, and 3D Printing. Join the journey of balancing work and tech hobbies, offering easy-to-understand explanations and practical tips.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
