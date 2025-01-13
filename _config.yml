@@ -91,12 +91,12 @@ comments:
   giscus:
     repo: yuribini/yuribini.github.io            # <gh-username>/<repo>
     repo_id: R_kgDOK_YVLQ
-    category: Announcements
+    category: General                            # General 카테고리 사용
     category_id: DIC_kwDOK_YVLM4CcNXK
-    mapping: pathname                    # optional, default to 'pathname'
-    input_position: bottom              # optional, default to 'bottom'
-    lang: ko                           # optional, default to the value of `site.lang`
-    reactions_enabled: 1                # optional, default to the value of `1`
+    mapping: title                               # pathname 대신 title 사용
+    input_position: bottom              
+    lang: ko                           
+    reactions_enabled: 1                
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
