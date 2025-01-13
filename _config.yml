@@ -90,10 +90,10 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: yuribini/yuribini.github.io            # <gh-username>/<repo>
-    repo_id: R_kgDOK_YVLQ
-    category: Announcements                       # 다시 Announcements로 변경
-    category_id: DIC_kwDOK_YVLM4CcNXJ            # 정확한 category_id
-    mapping: pathname                            # URL pathname 기반 매핑
+    repo_id: R_kgDOKy-Sfw                        # 올바른 repo_id
+    category: Announcements                       
+    category_id: DIC_kwDOKy-Sf84Cl-DP            # 올바른 category_id
+    mapping: pathname                            
     input_position: bottom              
     lang: ko                           
     reactions_enabled: 1                
