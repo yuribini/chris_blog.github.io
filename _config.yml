@@ -91,7 +91,7 @@ comments:
   giscus:
     repo: yuribini/yuribini.github.io            
     repo_id: R_kgDOKy-Sfw                        
-    category: Announcements                       
+    category: General                           
     category_id: DIC_kwDOKy-Sf84Cl-DP            
     mapping: pathname                            
     input_position: bottom              
