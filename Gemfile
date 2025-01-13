@@ -2,6 +2,11 @@
 
 source "https://rubygems.org"
 
+# Add required gems that are no longer included in Ruby 3.4.0
+gem "csv"
+gem "logger"
+gem "base64"
+
 gemspec
 
 group :test do
