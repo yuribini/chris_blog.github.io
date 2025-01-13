@@ -29,7 +29,7 @@ github:
   username: yuribini # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: sogogikt # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: aq0984@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.instagram.com/tw.kwon # change to your twitter homepage
-    - https://github.com/yuribini # change to your github homepage
+    - https://twitter.com/sogogikt
+    - https://www.instagram.com/tw.kwon
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
