@@ -91,9 +91,9 @@ comments:
   giscus:
     repo: yuribini/yuribini.github.io            # <gh-username>/<repo>
     repo_id: R_kgDOK_YVLQ
-    category: General                            # General 카테고리 사용
-    category_id: DIC_kwDOK_YVLM4CcNXK
-    mapping: title                               # pathname 대신 title 사용
+    category: Announcements                       # 다시 Announcements로 변경
+    category_id: DIC_kwDOK_YVLM4CcNXJ            # 정확한 category_id
+    mapping: pathname                            # URL pathname 기반 매핑
     input_position: bottom              
     lang: ko                           
     reactions_enabled: 1                
