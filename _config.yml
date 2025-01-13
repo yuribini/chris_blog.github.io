@@ -91,7 +91,7 @@ comments:
   giscus:
     repo: yuribini/yuribini.github.io            # <gh-username>/<repo>
     repo_id: R_kgDOK_YVLQ
-    category: General
+    category: Announcements
     category_id: DIC_kwDOK_YVLM4CcNXK
     mapping: pathname                    # optional, default to 'pathname'
     input_position: bottom              # optional, default to 'bottom'
